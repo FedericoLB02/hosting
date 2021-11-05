@@ -6,7 +6,6 @@ Header.Banner{
 }
 
 .TStoryline{
-font-family: cursive;
 font-style: italic;
 text-align: center;	
 font-size: 60px;
@@ -14,7 +13,6 @@ color: black;
 }
 
 .TextStyle{
-font-family: cursive;
 font-style: italic;	
 font-size: 40px;
 color: black;	
@@ -53,7 +51,6 @@ color: black;
 }
 
 .Storyline {
-font-family: cursive;
 font-style: italic;
 font-size: 40px;
 color: black;
